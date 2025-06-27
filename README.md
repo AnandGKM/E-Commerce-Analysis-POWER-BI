@@ -13,4 +13,3 @@ Enabled leadership to pinpoint high-growth product segments and underperforming 
 Facilitated resource planning by tracking supervisor effectiveness.
 
 Enhanced decision-making with real-time data access via Power BI dashboard.
-
